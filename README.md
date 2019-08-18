@@ -20,11 +20,11 @@ Generates daily bootstrap.dat files for the ION mainnet and testnet networks.
 
 |    Date    | Block Height | ZIP | SHA256SUMS |
 | ---------- | ------------ | --- | ---------- |
+| 2019-08-18 | 1276995 | [Link](https://s3-ap-southeast-2.amazonaws.com/ion-bootstrap/mainnet/2019-08-18/bootstrap.dat.zip) (802M) | [Link](https://s3-ap-southeast-2.amazonaws.com/ion-bootstrap/mainnet/2019-08-18/SHA256SUMS) |
 | 2019-08-17 | 1275575 | [Link](https://s3-ap-southeast-2.amazonaws.com/ion-bootstrap/mainnet/2019-08-17/bootstrap.dat.zip) (801M) | [Link](https://s3-ap-southeast-2.amazonaws.com/ion-bootstrap/mainnet/2019-08-17/SHA256SUMS) |
 | 2019-08-16 | 1274138 | [Link](https://s3-ap-southeast-2.amazonaws.com/ion-bootstrap/mainnet/2019-08-16/bootstrap.dat.zip) (800M) | [Link](https://s3-ap-southeast-2.amazonaws.com/ion-bootstrap/mainnet/2019-08-16/SHA256SUMS) |
 | 2019-08-15 | 1272721 | [Link](https://s3-ap-southeast-2.amazonaws.com/ion-bootstrap/mainnet/2019-08-15/bootstrap.dat.zip) (800M) | [Link](https://s3-ap-southeast-2.amazonaws.com/ion-bootstrap/mainnet/2019-08-15/SHA256SUMS) |
 | 2019-08-14 | 1271302 | [Link](https://s3-ap-southeast-2.amazonaws.com/ion-bootstrap/mainnet/2019-08-14/bootstrap.dat.zip) (799M) | [Link](https://s3-ap-southeast-2.amazonaws.com/ion-bootstrap/mainnet/2019-08-14/SHA256SUMS) |
-| 2019-08-13 | 1269875 | [Link](https://s3-ap-southeast-2.amazonaws.com/ion-bootstrap/mainnet/2019-08-13/bootstrap.dat.zip) (799M) | [Link](https://s3-ap-southeast-2.amazonaws.com/ion-bootstrap/mainnet/2019-08-13/SHA256SUMS) |
 
 ### Testnet
 
